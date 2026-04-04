@@ -1,0 +1,8 @@
+There are two types of loops in python
+1.For loop(Mostly used)
+2.While loop
+
+FOR LOOP - 
+e.g   my_list=['GL_ACCOUNT','OPER_UNIT','BUS_UNIT']
+       for i in my_list:
+            print(i)
