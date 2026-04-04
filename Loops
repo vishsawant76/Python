@@ -6,3 +6,7 @@ FOR LOOP -
 e.g   my_list=['GL_ACCOUNT','OPER_UNIT','BUS_UNIT']
        for i in my_list:
             print(i)
+
+--range(1,10)
+for i in range(1,10):
+ print(i)
