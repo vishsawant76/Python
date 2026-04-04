@@ -10,5 +10,24 @@ e.g   my_list=['GL_ACCOUNT','OPER_UNIT','BUS_UNIT']
 --range(1,10)
 for i in range(1,10):
  print(i)
+========================================================================
+--for loop with if conditions 
 
---for loop with if conditions  -- we can use nested for loop
+tables=['ORDER','PRODUCT','SALE','SHIPMENT']
+for tables in tables:
+    if tables.lower=='order':
+        print('order')
+    elif tables.lower=='product':  
+        print('product')
+    elif tables.lower=='sale':
+        print('sale')
+    else:
+        print(tables)
+============================================================
+ -- we can use nested for loop
+
+tables=['ORDER','PRODUCT','SALE','SHIPMENT']
+for i in tables:
+    print(i)
+    for j in i:
+        print(j)
