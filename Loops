@@ -31,3 +31,9 @@ for i in tables:
     print(i)
     for j in i:
         print(j)
+
+
+===============================================================================
+WHILE LOOP
+--break 
+-- continue
