@@ -1,3 +1,10 @@
+** Indendation**
+5.8- If-Else statements
+5.9- Loops 
+5.10- Functions
+5.11-Operators
+5.12-Package and Modules
+
 In Python, a for loop is used to iterate over a sequence (like a list, tuple, string, or range). There are two types of loops in python
 1.For loop(Mostly used)
 2.While loop
