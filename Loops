@@ -1,4 +1,4 @@
-There are two types of loops in python
+In Python, a for loop is used to iterate over a sequence (like a list, tuple, string, or range). There are two types of loops in python
 1.For loop(Mostly used)
 2.While loop
 
@@ -10,3 +10,5 @@ e.g   my_list=['GL_ACCOUNT','OPER_UNIT','BUS_UNIT']
 --range(1,10)
 for i in range(1,10):
  print(i)
+
+--for loop with if conditions  -- we can use nested for loop
