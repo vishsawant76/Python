@@ -1,6 +1,6 @@
 ** Indendation**
 5.8- If-Else statements
-5.9- Loops 
+5.9- Loops (FOR & WHILE Break,continue)
 5.10- Functions
 5.11-Operators
 5.12-Package and Modules
@@ -42,5 +42,11 @@ for i in tables:
 
 ===============================================================================
 WHILE LOOP
---break 
--- continue
+--break  will break condidtion and stop 
+-- continue  will skip that 
+e.g
+i = 1
+
+while i <= 5:
+    print(i)
+    i += 1
